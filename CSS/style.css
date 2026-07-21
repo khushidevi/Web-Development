@@ -1,0 +1,26 @@
+*{
+    color: black;
+}
+h1 {
+    color: rgb(243, 105, 128);
+}
+
+p{
+    color: red;
+}
+button{
+    color: blue; 
+}
+
+body{
+    background-color:rgb(243, 243, 131);
+}   
+button{
+    background-color: #b93737 ;
+}
+#heading2{
+    color: green;
+}
+.myclass{
+    color: chocolate;
+}
