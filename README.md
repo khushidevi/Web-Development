@@ -2,7 +2,7 @@
 
 ## HTML
 
-This folder contains my HTML practice files and exercises completed as part of my Web Development learning journey.
+This folder contains my HTML practice files and projects completed as part of my Web Development learning journey.
 
 ### Topics Covered
 
