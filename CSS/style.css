@@ -1,3 +1,4 @@
+/*
 *{
     color: black;
 }
@@ -26,7 +27,7 @@ button{
 }
 #box {
     background-color: rgb(12, 218, 12);
-    /*this is a comment*/
+    
 }
 div{
     text-align: start;
@@ -34,8 +35,8 @@ div{
 h1{
     text-align: center;
     text-decoration: blue wavy underline;
-    /*text-decoration: overline;
-    text-decoration: line-through;*/
+    text-decoration: overline;
+    text-decoration: line-through;
 }
 a{
     text-decoration: none;
@@ -57,4 +58,40 @@ div{
     font-size: 20px;
     line-height: normal;
     text-transform: lowercase;
+}
+*/
+/*Level 2*/
+#div1{
+    height:100px;
+    width: 100px;
+    background-color: rgb(245, 96, 121);
+    border-width: 3px;
+    border-style: solid;
+    border-color: brown;
+    text-align: center;
+    border-radius: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+#div2{
+    height:100px;
+    width: 100px;
+    background-color: rgb(245, 96, 121);
+    text-align: center;
+    border:3px solid brown;
+    border-radius: 50%;
+    padding:1px 2px 3px 4px;
+    margin:1px 2px 3px 4px;
+}
+h1{
+    height: 50px;
+    width: 200px;
+    background-color: rgb(135, 135, 224);
+    border-width: 3px;
+    border-style: dashed;
+    border-color: black;
+    text-align: center;
 }
