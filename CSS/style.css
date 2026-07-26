@@ -95,3 +95,32 @@ h1{
     border-color: black;
     text-align: center;
 }
+#div3{
+    background-color: pink;
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    margin: 25px;
+    padding: 25px;
+}
+#div4{
+     background-color: rgba(255,0,0,0.5);
+     display: inline-block;
+     width: 100px;
+     height: 100px;
+     margin: 25px;
+     padding: 25px;
+}
+#div5{
+     background-color: green;
+     display: inline-block;
+     width: 100px;
+     height: 100px;
+     margin: 25px;
+     padding: 25px;
+     visibility: hidden;
+}
+#div6{
+    background-color: rgb(119, 119, 196);
+    display: inline;
+}
